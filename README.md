@@ -20,7 +20,7 @@ Mais familiarizado com Python e suas bibliotecas, com vontade de dominar o backe
 
 ### 💻 Tech Stack
 
-Python · JavaScript · Git · SQL · React · Vite · Node.js · MongoDB
+Python · JavaScript · Git · SQL · React · Vite · Node.js · MongoDB · PostgreSQL
 
 ---
 
