@@ -27,12 +27,13 @@ Python · JavaScript · Git · SQL · React · Vite · Node.js · MongoDB · Pos
 ### 🚀 Projetos em destaque
 
 - **Fullstack CRUD App** – Projeto completo com backend em Node.js, Express, Prisma e MongoDB, e frontend em React + Vite + Axios.  
+- **Projeto de Gestão de Carros** – Aplicação web completa para cadastro, atualização e gerenciamento de informações de veículos, construída com Django. Implementa autenticação de usuários, e estrutura modular para facilitar manutenção e escalabilidade.
 - Explorando desenvolvimento web com Django e React.
-
 ---
 
 ### 🎯 Atualmente estudando
 
+- Javascript
 - Django  
 - React  
 - Backend em Python
